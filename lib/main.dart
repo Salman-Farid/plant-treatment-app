@@ -10,6 +10,8 @@ import 'firebase_options.dart';
 import 'main_screen/home_page.dart';
 import 'services/auth_service.dart';
 
+
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   // Add these lines for frame rate optimization
